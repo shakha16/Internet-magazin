@@ -200,30 +200,39 @@ h1{
 
 .box1{
     display: block;
+    justify-content: center;
     width: 250px;
     height: 400px;
 }
 .box2{
     display: block;
+    justify-content: center;
     width: 250px;
     height: 400px;
+    margin-right: 30px;
 }
 .box3{
     display: block;
+    justify-content: center;
     width: 250px;
     height: 400px;
+    margin-right: 30px;
 }
 .box4{
     display: block;
+    justify-content: center;
     width: 250px;
     height: 400px;
+    margin-right: 30px;
 }
 .box5{
     display: block;
+    justify-content: center;
     width: 250px;
     height: 400px;
+    margin-right: 30px;
 }
 
 .box1:hover,.box2:hover,.box3:hover,.box4:hover,.box5:hover{
-    box-shadow: 10px 10px 10px black;
+    box-shadow: 0 0 5px black;
 }
